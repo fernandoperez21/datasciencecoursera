@@ -4,10 +4,12 @@
 
 The columns included in the output file are listed below:
 
-    subject_id - The id of the experiment participant.
-    activity_labels - The name of the activity that the measurements correspond to, like LAYING or WALKING.
+    subject_id      - The id of the experiment participant.
+    activity_labels - The name of the activity that the measurements corresponds.
 
-All of the following fields represent the mean of recorded data points for the given subject and activity. The detailed description of the different measurement types can be found in the features_info.txt file included in the data zip file.
+All of the following fields represent the mean of recorded data points for the given subject and activity. 
+The detailed description of the different measurement types can be found in the features_info.txt file 
+included in the data zip file.
 
     tBodyAcc_mean_X
     tBodyAcc_mean_Y
