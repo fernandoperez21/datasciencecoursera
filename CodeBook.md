@@ -1,6 +1,6 @@
-## Cleaning and Getting Data course project code book
+# Cleaning and Getting Data course project CODE BOOK
 
-# Columns in output file
+## Columns in output file
 
 The columns included in the output file are listed below:
 
